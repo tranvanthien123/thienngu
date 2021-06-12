@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>educate &#8211; Văn Thiên</title>
+	<atom:link href="http://localhost/tranvanthien/wordpress/category/educate/feed/" rel="self" type="application/rss+xml" />
+	<link>https://tranvanthien123.github.io/thienngu</link>
+	<description>Just another WordPress site</description>
+	<lastBuildDate>Sat, 12 Jun 2021 06:05:24 +0000</lastBuildDate>
+	<language>vi</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.7.2</generator>
+	<item>
+		<title>Hoạt Động Đào Tạo</title>
+		<link>https://tranvanthien123.github.io/thienngu/2021/06/12/hoat-dong-dao-tao/</link>
+					<comments>https://tranvanthien123.github.io/thienngu/2021/06/12/hoat-dong-dao-tao/#respond</comments>
+		
+		<dc:creator><![CDATA[user1]]></dc:creator>
+		<pubDate>Sat, 12 Jun 2021 05:58:06 +0000</pubDate>
+				<category><![CDATA[educate]]></category>
+		<guid isPermaLink="false">https://tranvanthien123.github.io/thienngu/?p=73</guid>
+
+					<description><![CDATA[Đào tạo là một trong những &#160;nhiệm vụ trọng tâm của Trường Cao Đẳng Công Nghệ Thông Tin-TP HCM. Phát huy truyền thống hơn 60 năm hình thành và phát triển, kế thừa những kết quả đã đạt được, Trường Cao đẳng Phát thanh – Truyền hình I đã đưa ra nhiều chủ trương cũng &#8230; ]]></description>
+										<content:encoded><![CDATA[
+<p>Đào tạo là một trong những &nbsp;nhiệm vụ trọng tâm của Trường <span class="has-inline-color has-pale-cyan-blue-color">Cao Đẳng Công Nghệ Thông Tin-TP HCM</span>. Phát huy truyền thống hơn 60 năm hình thành và phát triển, kế thừa những kết quả đã đạt được, Trường Cao đẳng Phát thanh – Truyền hình I đã đưa ra nhiều chủ trương cũng như giải pháp nhằm tiếp tục nâng cao chất lượng đào tạo đáp ứng đòi hỏi ngày càng cao của xã hội. Trong giai đoạn hiện nay, Nhà trường đã và đang triển khai đổi mới căn bản, toàn diện về các ngành, nghề đào tạo, mô hình đào tạo, phương thức đào tạo và chương trình đào tạo,… gắn liền với đổi mới phương pháp dạy và học, cải thiện môi trường dạy và học; chú trọng kỹ năng thực hành nghề nghiệp và tính thực tiễn cho người học, đảm bảo người tốt nghiệp có năng lực phù hợp với chuẩn đầu ra, đáp ứng nhu cầu của xã hội.<br>Những thay đổi trong công tác đào tạo đã giúp Nhà trường duy trì và đang dần khẳng định uy tín và chất lượng trong đào tạo nguồn nhân lực có chất lượng, chắc về kiến thức, giỏi về tay nghề, thành thạo ngoại ngữ, phẩm chất đạo đức tốt trong nhiều ngành, nghề khác nhau đặc biệt là lính vực báo chí, truyền thông phục vụ sự phát triển đa dạng của ngành cũng như sự nghiệp phát triển kinh tế xã hội và sự nghiệp giáo dục đào tạo của quốc gia.</p>
+
+
+
+<figure class="wp-block-image size-large is-resized"><img loading="lazy" src="https://tranvanthien123.github.io/thienngu/wp-content/uploads/2021/06/congnghe4-1.png" alt="" class="wp-image-75" width="841" height="433"/></figure>
+
+
+
+<p><strong>Một Số Hoạt Động Của Trường</strong>:</p>
+
+
+
+<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+<iframe loading="lazy" title="[Giới thiệu] - Trường Cao đẳng Công nghệ thông tin - TP.HCM" width="810" height="456" src="https://www.youtube.com/embed/XNmVjQ1Ohio?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div></figure>
+
+
+
+<p></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://tranvanthien123.github.io/thienngu/2021/06/12/hoat-dong-dao-tao/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
